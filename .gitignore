@@ -1,0 +1,19 @@
+# Local Claude Code settings and credentials
+.claude/*.local.*
+.env
+.env.*
+!.env.example
+
+# Python and tooling caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local data and generated artifacts
+data/local/
+data/state/
+artifacts/
+reports/
+*.log

@@ -1,0 +1,33 @@
+{
+  "jurisdiction": "BR",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "br-nfe",
+      "authority": "Portal Nacional da NF-e",
+      "title": "Portal da Nota Fiscal Eletrônica",
+      "type": "official_technical_portal",
+      "url": "https://www.nfe.fazenda.gov.br/portal/",
+      "status": "portal_oficial_pendiente_revision",
+      "use_for": ["NF-e", "documentos_tecnicos", "servicios"]
+    },
+    {
+      "id": "br-cte",
+      "authority": "Portal do CT-e",
+      "title": "Conhecimento de Transporte Eletrônico",
+      "type": "official_technical_portal",
+      "url": "https://www.cte.fazenda.gov.br/portal/",
+      "status": "portal_oficial_verificado",
+      "use_for": ["CT-e", "legislacion", "documentos", "servicios"]
+    },
+    {
+      "id": "br-nfse",
+      "authority": "Governo Federal",
+      "title": "Portal da Nota Fiscal de Serviço eletrônica",
+      "type": "official_technical_portal",
+      "url": "https://www.gov.br/nfse/pt-br",
+      "status": "portal_oficial_verificado",
+      "use_for": ["NFS-e", "municipios", "documentacion_tecnica", "eventos"]
+    }
+  ]
+}

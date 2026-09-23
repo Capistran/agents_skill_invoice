@@ -1,0 +1,33 @@
+{
+  "jurisdiction": "MX",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "mx-dof",
+      "authority": "Diario Oficial de la Federación",
+      "title": "Portal del Diario Oficial de la Federación",
+      "type": "official_legal_portal",
+      "url": "https://www.dof.gob.mx/",
+      "status": "portal_oficial",
+      "use_for": ["publicaciones_normativas", "vigencia"]
+    },
+    {
+      "id": "mx-sat",
+      "authority": "Servicio de Administración Tributaria",
+      "title": "Portal del SAT",
+      "type": "official_tax_portal",
+      "url": "https://www.sat.gob.mx/home",
+      "status": "portal_oficial_verificado",
+      "use_for": ["CFDI", "tramites", "servicios_tributarios"]
+    },
+    {
+      "id": "mx-shcp",
+      "authority": "Secretaría de Hacienda y Crédito Público",
+      "title": "Portal de la SHCP",
+      "type": "official_government_portal",
+      "url": "https://www.gob.mx/shcp",
+      "status": "portal_oficial_verificado",
+      "use_for": ["politica_hacendaria", "publicaciones"]
+    }
+  ]
+}

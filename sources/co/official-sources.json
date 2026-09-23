@@ -1,0 +1,33 @@
+{
+  "jurisdiction": "CO",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "co-dian",
+      "authority": "Dirección de Impuestos y Aduanas Nacionales",
+      "title": "Portal institucional",
+      "type": "official_portal",
+      "url": "https://www.dian.gov.co/",
+      "status": "portal_oficial_verificado",
+      "use_for": ["normativa", "servicios", "autoridad"]
+    },
+    {
+      "id": "co-normograma",
+      "authority": "Dirección de Impuestos y Aduanas Nacionales",
+      "title": "Normograma DIAN",
+      "type": "official_legal_portal",
+      "url": "https://normograma.dian.gov.co/dian/",
+      "status": "portal_oficial_verificado",
+      "use_for": ["normativa", "doctrina", "jurisprudencia"]
+    },
+    {
+      "id": "co-einvoice",
+      "authority": "Dirección de Impuestos y Aduanas Nacionales",
+      "title": "Sistema de facturación electrónica",
+      "type": "official_technical_portal",
+      "url": "https://micrositios.dian.gov.co/sistema-de-facturacion-electronica/",
+      "status": "portal_oficial_referenciado",
+      "use_for": ["facturacion_electronica", "anexos_tecnicos", "proveedores"]
+    }
+  ]
+}

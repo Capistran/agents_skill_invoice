@@ -1,0 +1,24 @@
+{
+  "jurisdiction": "AR",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "ar-edicom-scope",
+      "authority": "EDICOM",
+      "title": "Electronic Invoicing and Transport Documents in Argentina",
+      "type": "secondary_scope_reference",
+      "url": "https://edicomgroup.com/electronic-invoicing/argentina",
+      "status": "secondary_reference",
+      "use_for": ["document_scope", "terminology_candidates"]
+    },
+    {
+      "id": "ar-arca",
+      "authority": "ARCA",
+      "title": "Portal y normativa fiscal",
+      "type": "primary_source_pending",
+      "url": "https://www.arca.gob.ar/",
+      "status": "pending_primary_verification",
+      "use_for": ["normativa", "servicios", "CAE", "comprobantes"]
+    }
+  ]
+}

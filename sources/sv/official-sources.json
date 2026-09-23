@@ -1,0 +1,24 @@
+{
+  "jurisdiction": "SV",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "sv-mh",
+      "authority": "Ministerio de Hacienda de El Salvador",
+      "title": "Portal institucional",
+      "type": "official_portal",
+      "url": "https://www.mh.gob.sv/",
+      "status": "portal_oficial_verificado",
+      "use_for": ["publicaciones", "servicios", "autoridad"]
+    },
+    {
+      "id": "sv-einvoice",
+      "authority": "Ministerio de Hacienda de El Salvador",
+      "title": "Factura electrónica",
+      "type": "official_service_portal",
+      "url": "https://factura.gob.sv/",
+      "status": "portal_oficial_referenciado",
+      "use_for": ["documentos_electronicos", "servicio"]
+    }
+  ]
+}

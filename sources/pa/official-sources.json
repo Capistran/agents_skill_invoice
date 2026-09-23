@@ -1,0 +1,24 @@
+{
+  "jurisdiction": "PA",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "pa-dgi",
+      "authority": "Dirección General de Ingresos de Panamá",
+      "title": "Portal institucional",
+      "type": "official_portal",
+      "url": "https://dgi.mef.gob.pa/dgi.php",
+      "status": "portal_oficial_verificado",
+      "use_for": ["normativa", "tramites", "autoridad"]
+    },
+    {
+      "id": "pa-electronic-invoice",
+      "authority": "Dirección General de Ingresos de Panamá",
+      "title": "Factura electrónica",
+      "type": "official_service_portal",
+      "url": "https://dgi.mef.gob.pa/_7FacturaElectronica/",
+      "status": "portal_oficial_verificado",
+      "use_for": ["documentos_electronicos", "documentos_autorizados", "contingencia"]
+    }
+  ]
+}

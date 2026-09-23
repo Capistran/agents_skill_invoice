@@ -1,0 +1,32 @@
+{
+  "jurisdiction": "MX",
+  "sources": [
+    {
+      "id": "dof-home",
+      "title": "Diario Oficial de la Federación",
+      "authority": "Secretaría de Gobernación",
+      "type": "official_portal",
+      "url": "https://www.dof.gob.mx/",
+      "enabled": true,
+      "notes": "Revisar publicaciones oficiales y consultar el documento específico antes de concluir impacto fiscal."
+    },
+    {
+      "id": "sat-home",
+      "title": "Servicio de Administración Tributaria",
+      "authority": "SAT",
+      "type": "official_portal",
+      "url": "https://www.sat.gob.mx/home",
+      "enabled": true,
+      "notes": "Usar como punto de entrada para comunicados, trámites y criterios publicados por el SAT."
+    },
+    {
+      "id": "shcp-home",
+      "title": "Secretaría de Hacienda y Crédito Público",
+      "authority": "SHCP",
+      "type": "official_portal",
+      "url": "https://www.gob.mx/shcp",
+      "enabled": true,
+      "notes": "Usar para comunicados y documentos publicados por la SHCP; verificar siempre el documento primario."
+    }
+  ]
+}

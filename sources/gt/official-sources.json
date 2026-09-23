@@ -1,0 +1,24 @@
+{
+  "jurisdiction": "GT",
+  "consulted_at": "2026-09-22",
+  "sources": [
+    {
+      "id": "gt-sat",
+      "authority": "Superintendencia de Administración Tributaria de Guatemala",
+      "title": "Portal institucional",
+      "type": "official_portal",
+      "url": "https://portal.sat.gob.gt/portal/",
+      "status": "portal_oficial_pendiente_revision",
+      "use_for": ["normativa", "servicios", "autoridad"]
+    },
+    {
+      "id": "gt-fel",
+      "authority": "Superintendencia de Administración Tributaria de Guatemala",
+      "title": "Factura Electrónica en Línea",
+      "type": "official_service_portal",
+      "url": "https://portal.sat.gob.gt/portal/factura-electronica-fel/",
+      "status": "portal_oficial_pendiente_revision",
+      "use_for": ["FEL", "documentos_electronicos", "certificacion"]
+    }
+  ]
+}
