@@ -6,6 +6,8 @@ Repositorio para construir agentes que detecten, expliquen y planifiquen cambios
 
 El proyecto se limita a análisis y planificación. Cada conclusión, regla propuesta o requisito debe poder rastrearse hasta una fuente, una fecha de consulta y una jurisdicción. La implementación de software queda fuera de alcance y solo se documenta como plan posible.
 
+El alcance activo actual es México. La matriz de agentes, skills y entregables de implementación futura está en [docs/mx-implementation-scope.md](docs/mx-implementation-scope.md). Los demás países permanecen diferidos como referencia.
+
 ## Estructura
 
 ```text

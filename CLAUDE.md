@@ -4,6 +4,8 @@
 
 Este repositorio ayuda a analizar cambios fiscales en México y, posteriormente, en otras jurisdicciones de Latinoamérica. El sistema produce análisis y planes para una posible implementación posterior; no implementa sistemas productivos ni automatiza decisiones fiscales.
 
+El país activo para el trabajo actual es México. Los demás países se mantienen como referencia diferida y requieren activación explícita.
+
 ## Reglas de trabajo
 
 - Responder en español salvo que el usuario pida otro idioma.

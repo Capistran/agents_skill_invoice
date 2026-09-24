@@ -11,6 +11,8 @@ Objetivo opcional: análisis general | documento fiscal | PAC | ERP | cambio nor
 
 Si solo se proporciona el país, comienza con un análisis general.
 
+México (`mx`) es el país activo por defecto del repositorio. Los demás países requieren activación explícita y revisión de fuentes antes de preparar un plan de implementación.
+
 ## Fase 1: contexto
 
 1. Normaliza el país a su código.

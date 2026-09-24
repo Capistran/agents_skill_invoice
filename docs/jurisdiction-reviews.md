@@ -24,14 +24,14 @@ La implementación mexicana no debe copiarse literalmente. Los skills `mx-*` con
 | País | Código | Estado | Documento o sistema a confirmar | Riesgo de reutilización |
 | --- | --- | --- | --- | --- |
 | México | `mx` | implementado inicialmente | CFDI, SAT, PAC y complementos | Es la base actual, no un modelo universal |
-| El Salvador | `sv` | skills base implementados; reglas pendientes | comprobante electrónico, autoridad y proveedor o servicio autorizado | No asumir CFDI, XML, PAC ni campos mexicanos |
-| Guatemala | `gt` | skills base implementados; reglas FEL pendientes | FEL, SAT de Guatemala, certificador y documentos aplicables | No asumir que FEL es CFDI con otro nombre |
-| Panamá | `pa` | skills base implementados; reglas pendientes | factura electrónica, DGI y modalidades autorizadas | Confirmar formato, ciclo y proveedor antes de nombrar skills |
-| Colombia | `co` | skills base implementados; reglas DIAN pendientes | DIAN, factura electrónica, documentos equivalentes y proveedor tecnológico | No llamar PAC al proveedor sin evidencia |
-| Brasil | `br` | skills base implementados; reglas por documento pendientes | NF-e, NFS-e, CT-e y autoridades federal, estatal y municipal | Requiere portugués técnico y separación por ámbito |
-| Argentina | `ar` | skills base implementados; reglas ARCA pendientes | comprobantes A/B/C/E/T, CAE, notas y transporte | No asumir que CAE o COT equivalen a modelos mexicanos |
-| Perú | `pe` | skills base implementados; reglas SUNAT pendientes | CPE, UBL 2.1, notas, retenciones, GRE, PSE/OSE | No asumir que CDR, PSE u OSE equivalen a PAC |
-| Chile | `cl` | skills base implementados; reglas SII pendientes | DTE, XML, CAF, notas, guías y exportación | No asumir que CAF o SII equivalen a PAC/CFDI |
+| El Salvador | `sv` | diferido; skills de análisis disponibles | comprobante electrónico, autoridad y proveedor o servicio autorizado | No asumir CFDI, XML, PAC ni campos mexicanos |
+| Guatemala | `gt` | diferido; skills de análisis disponibles | FEL, SAT de Guatemala, certificador y documentos aplicables | No asumir que FEL es CFDI con otro nombre |
+| Panamá | `pa` | diferido; skills de análisis disponibles | factura electrónica, DGI y modalidades autorizadas | Confirmar formato, ciclo y proveedor antes de nombrar skills |
+| Colombia | `co` | diferido; skills de análisis disponibles | DIAN, factura electrónica, documentos equivalentes y proveedor tecnológico | No llamar PAC al proveedor sin evidencia |
+| Brasil | `br` | diferido; skills de análisis disponibles | NF-e, NFS-e, CT-e y autoridades federal, estatal y municipal | Requiere portugués técnico y separación por ámbito |
+| Argentina | `ar` | diferido; skills de análisis disponibles | comprobantes A/B/C/E/T, CAE, notas y transporte | No asumir que CAE o COT equivalen a modelos mexicanos |
+| Perú | `pe` | diferido; skills de análisis disponibles | CPE, UBL 2.1, notas, retenciones, GRE, PSE/OSE | No asumir que CDR, PSE u OSE equivalen a PAC |
+| Chile | `cl` | diferido; skills de análisis disponibles | DTE, XML, CAF, notas, guías y exportación | No asumir que CAF o SII equivalen a PAC/CFDI |
 
 ## Skills comunes que requieren adaptación
 
